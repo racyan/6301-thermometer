@@ -7083,6 +7083,8 @@ Operational amplifiers,  comparators, voltage regulators, ADCs, DACs, etc.&lt;p&
 <junction x="81.28" y="68.58"/>
 <junction x="66.04" y="68.58"/>
 <label x="66.04" y="53.34" size="1.778" layer="95"/>
+<junction x="45.72" y="55.88"/>
+<junction x="25.4" y="55.88"/>
 </segment>
 </net>
 <net name="PNP_BASE" class="0">
@@ -7109,6 +7111,7 @@ Operational amplifiers,  comparators, voltage regulators, ADCs, DACs, etc.&lt;p&
 <junction x="20.32" y="66.04"/>
 <junction x="33.02" y="76.2"/>
 <label x="35.56" y="73.66" size="1.778" layer="95"/>
+<junction x="45.72" y="76.2"/>
 </segment>
 </net>
 <net name="VR2" class="0">

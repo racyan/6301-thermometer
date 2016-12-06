@@ -6932,9 +6932,7 @@ Operational amplifiers,  comparators, voltage regulators, ADCs, DACs, etc.&lt;p&
 <instance part="+3V2" gate="G$1" x="215.9" y="116.84"/>
 <instance part="SUPPLY7" gate="GND" x="208.28" y="147.32"/>
 <instance part="SUPPLY8" gate="GND" x="154.94" y="139.7"/>
-<instance part="IC6" gate="C" x="45.72" y="12.7"/>
 <instance part="IC6" gate="D" x="182.88" y="38.1"/>
-<instance part="IC6" gate="B" x="73.66" y="10.16"/>
 <instance part="IC6" gate="P" x="121.92" y="68.58"/>
 <instance part="PP_V5P0_ARDUINO4" gate="1" x="121.92" y="81.28"/>
 <instance part="SUPPLY9" gate="GND" x="121.92" y="58.42"/>
@@ -7202,6 +7200,7 @@ Operational amplifiers,  comparators, voltage regulators, ADCs, DACs, etc.&lt;p&
 <label x="144.78" y="68.58" size="1.778" layer="95"/>
 <pinref part="IC4" gate="_A" pin="IN/OUT1"/>
 <wire x1="142.24" y1="58.42" x2="142.24" y2="68.58" width="0.1524" layer="91"/>
+<junction x="142.24" y="68.58"/>
 </segment>
 </net>
 <net name="SW_VOLTAGE" class="0">
@@ -7213,6 +7212,7 @@ Operational amplifiers,  comparators, voltage regulators, ADCs, DACs, etc.&lt;p&
 <label x="144.78" y="38.1" size="1.778" layer="95"/>
 <pinref part="IC4" gate="_A" pin="IN/OUT2"/>
 <wire x1="142.24" y1="43.18" x2="142.24" y2="40.64" width="0.1524" layer="91"/>
+<junction x="142.24" y="40.64"/>
 </segment>
 </net>
 <net name="INTEGRATOR_IN" class="0">
