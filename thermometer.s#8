@@ -7202,6 +7202,7 @@ Operational amplifiers,  comparators, voltage regulators, ADCs, DACs, etc.&lt;p&
 <label x="144.78" y="68.58" size="1.778" layer="95"/>
 <pinref part="IC4" gate="_A" pin="IN/OUT1"/>
 <wire x1="142.24" y1="58.42" x2="142.24" y2="68.58" width="0.1524" layer="91"/>
+<junction x="142.24" y="68.58"/>
 </segment>
 </net>
 <net name="SW_VOLTAGE" class="0">
@@ -7213,6 +7214,7 @@ Operational amplifiers,  comparators, voltage regulators, ADCs, DACs, etc.&lt;p&
 <label x="144.78" y="38.1" size="1.778" layer="95"/>
 <pinref part="IC4" gate="_A" pin="IN/OUT2"/>
 <wire x1="142.24" y1="43.18" x2="142.24" y2="40.64" width="0.1524" layer="91"/>
+<junction x="142.24" y="40.64"/>
 </segment>
 </net>
 <net name="INTEGRATOR_IN" class="0">

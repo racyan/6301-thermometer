@@ -7112,7 +7112,6 @@ Operational amplifiers,  comparators, voltage regulators, ADCs, DACs, etc.&lt;p&
 <junction x="33.02" y="76.2"/>
 <label x="35.56" y="73.66" size="1.778" layer="95"/>
 <junction x="45.72" y="76.2"/>
-<junction x="60.96" y="76.2"/>
 </segment>
 </net>
 <net name="VR2" class="0">

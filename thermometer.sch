@@ -6870,7 +6870,7 @@ Operational amplifiers,  comparators, voltage regulators, ADCs, DACs, etc.&lt;p&
 <part name="R6" library="rcl" deviceset="R-US_" device="0207/10" value="33k"/>
 <part name="R7" library="rcl" deviceset="R-US_" device="0207/10" value="680"/>
 <part name="PP_V2P3" library="supply2" deviceset="V+" device="" value="PP_V2P5"/>
-<part name="IC6" library="linear" deviceset="LM324" device="N"/>
+<part name="IC6" library="linear" deviceset="LM324" device="N" value="LM6134"/>
 <part name="C2" library="rcl" deviceset="C-EU" device="050-035X075" value="1u"/>
 <part name="R8" library="rcl" deviceset="R-US_" device="0207/10" value="5.1k"/>
 <part name="PP_V2P2" library="supply2" deviceset="V+" device="" value="PP_V2P5"/>
